@@ -1,0 +1,1 @@
+Repository to maintain the progress of Project work on imageTextRecognition for subject INFO 7390.

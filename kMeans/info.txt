@@ -1,0 +1,1 @@
+Repository to maintain the progress of HW assignments on K-Means for subject INFO 7390.
